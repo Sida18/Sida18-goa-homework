@@ -1,0 +1,161 @@
+
+
+body{
+    font-family: "Karla", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal; 
+    background-color: hsl(204, 43%, 93%);
+}
+
+
+.conteiner{
+    width:1000px ;
+    height: 750px;
+    background-color: #fff;
+    border-radius: 8px;
+}
+
+.join{
+    color: rgb(0, 255, 115);
+    position: relative;
+    top: 56px;
+    left: 56px;
+}
+
+.day{
+    color:hsl(71, 73%, 54%) ;
+    position: relative;
+    bottom: 550px;
+}
+
+.be{
+    color: grey;
+    position: relative;
+    bottom: 545px;
+}
+
+.day-be{
+    position: relative;
+    top: 56px;
+    left: 56px;
+    transform: translateY(-140px);
+}
+
+.month{
+    position: relative;
+    top: 300px;
+    left: 56px;
+    transform: translateY(-280px);
+    color: white;
+}
+
+.dollar{
+    position: relative;
+    top: 280px;
+    font-size: 40px;
+    left: 56px;
+    transform: translateY(-350px);
+    color: white;
+}
+
+.p1{
+    display: inline;
+    position: relative;
+    top: -150px;
+    left: 150px;
+    font-size: 25px;
+    color: gray;
+   
+}
+
+.full{
+    position: relative;
+    top: 215px;
+    left: 56px;
+    color: gray;
+    transform: translateY(-350px);
+}
+
+
+.Sign{
+    width: 400px;
+    height: 60px;
+    position: relative;
+    left: 56px;
+    top: 260px;
+    background-color: hsl(71, 73%, 54%);
+    border: solid hsl(71, 73%, 54%);
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 8px;
+    transform: translateY(-340px);
+}
+
+.div1{
+    width: 500px;
+    height: 390px;
+    background-color: rgb(85, 189, 163);
+    position: relative;
+    top: 300px;
+    border-radius: 8px;
+}
+
+
+.Why{
+    position: relative;
+    left: -0px;
+    bottom: 80px;
+    top: 120px;
+    transform: translateX(145px) translateY(-100px);
+    color: white;
+}
+
+.amp{
+    position: relative;
+   left: 650px;
+   bottom: 400px;
+   color: white;
+}
+
+.div2{
+    position: relative;
+    top: -200px;
+    transform: translateY(-350px);
+    }
+
+
+.why-back {
+    width: 500px;
+    height: 390px;
+    background-color: rgb(78, 201, 197);
+    position: relative;
+    bottom: 110px;
+    left: 500px;
+    border-radius: 8px;
+}
+
+@media only screen and (max-width: 430px){
+
+ .why-back{
+    position: relative;
+    top: 300px;
+    left: -0px;
+}
+
+.amp{
+    position: relative;
+    top: 0px;
+    left: 140px;
+}
+
+
+.conteiner{
+    height: 1190px;
+    width: 500px;
+}
+
+.day-be{
+    transform: translateY(-600px);
+}
+}

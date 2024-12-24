@@ -1,0 +1,105 @@
+.white{
+  width: 1530px;
+  height: 500px;
+  background-color: white;
+  position: relative;
+  bottom: 130px;
+border-bottom-right-radius: 150px;
+}
+
+.about{
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 55vh;
+}
+
+.learn{
+  display: flex;
+  justify-content: center;
+   color: black;
+   position: relative;
+   right: 10px;
+   bottom: 150px;
+}
+
+#sign{
+  width: 230px;
+  height: 60px;
+  font-size: 23px;
+  transition: 1s;
+  position: relative;
+  left: 630px;
+  bottom: 100px;
+}
+
+#sign:hover{
+  transform: scale(1);
+  background-color: white;
+  color: black;
+  box-shadow: 5px 5px 30px 20px;
+ 
+}
+
+.how{
+    position: relative;
+    left: 30px;
+    font-size: 45px;
+}
+
+
+.eat{
+    position: relative;
+    left: 30px;
+    bottom: 10px;
+}
+
+.how1{
+  position: relative;
+  left: 750px;
+  font-size: 45px;
+  bottom: 230px;
+}
+
+.sleep {
+  position: relative;
+  left: 740px;
+  bottom: 250px;
+}
+
+.how2{
+  font-size: 45px;
+  position: relative;
+  top: -160px;
+  left: 20px;
+}
+
+.communicate{
+  position: relative;
+  top: -170px;
+  left: 20px;
+}
+
+.how3{
+  font-size: 45px;
+  position: relative;
+  left: 750px;
+  bottom: 490px;
+}
+
+.swim{
+  position: relative;
+  left: 740px;
+  bottom: 500px;
+}
+
+#more{
+  width: 200px;
+  height: 60px;
+  background-color: white;
+  color: black;
+  position: relative;
+  left: 415px;
+  top: 40px;
+}

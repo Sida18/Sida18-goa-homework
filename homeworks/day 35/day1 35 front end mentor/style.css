@@ -1,0 +1,152 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@700&display=swap');
+
+body{
+background-color: hsl(233, 47%, 7%);
+font-family: Lexend Deca;
+display: flex;
+justify-content: center;
+align-items: center;
+min-height: 100vh;
+}
+
+.a{
+position: relative;
+left: 540px;
+top: 100px;
+background-color:hsl(277, 64%, 61%) ;
+}
+
+
+.a1{
+display: inline;
+position: relative;
+left: 70px;
+}
+
+h1{
+display: inline;
+color:hsla(0, 0%, 100%, 0.6) ;
+position: relative;
+right: 700px;
+bottom: 390px;
+
+}
+
+.s{
+display: inline;
+color: hsl(277, 64%, 61%);
+}
+
+
+
+
+
+
+
+
+
+.d{
+color:hsla(0, 0%, 100%, 0.6)  ;
+position: relative;
+bottom: 415px;
+left: -0px;
+font-size: 30px;
+}
+
+.f{
+display: inline;
+position: relative;
+left: 40px;
+bottom: 390px;
+color: gray;
+
+}
+
+
+.g{
+color: gray;
+}
+
+.h{
+color: hsla(0, 0%, 100%, 0.75);
+position: relative;
+bottom: 390px;
+left: 43px;
+font-size: 30px;
+
+
+
+}
+
+.j{
+display: inline;
+position: relative;
+bottom: 420px;
+left: 48px;
+
+}
+
+.k{
+display: inline;
+position: relative;
+bottom: 491px;
+left: 220px;
+font-size: 30px;
+color:hsla(0, 0%, 100%, 0.75 )
+}
+
+
+.l{
+display: inline;
+position: relative;
+bottom: 470px;
+left: 170px;
+
+}
+
+.q{
+display: inline;
+color: hsla(0, 0%, 100%, 0.75 );
+position: relative;
+bottom: 544px;
+left: 371px;
+font-size: 30px;
+}
+
+.w{
+display: inline;
+position: relative;
+bottom: 525px;
+left: 320px;
+
+}
+
+.conteiner{
+width: 1200px; 
+height: 500px; 
+border: 1px solid ;
+border-radius: 15px;
+background-color: hsl(244, 38%, 16%) ;
+}
+
+.e{
+display: inline;
+position: relative;
+bottom: 100px;
+}
+
+.r{
+display: inline;
+position: relative;
+right: 33px;
+}
+
+
+@media only screen and(max-width: 500px){
+  .container{
+    display: flex;
+    flex-direction: column;
+  }
+}

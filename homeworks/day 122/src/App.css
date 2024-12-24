@@ -1,0 +1,13 @@
+.textarea {
+  opacity: 0.2;
+  border-radius: 15px;
+  box-shadow: 10px 10px 30px 10px white;
+  color: white;
+ border: white;
+}
+
+.textarea:focus{
+  opacity: 1;
+
+}
+

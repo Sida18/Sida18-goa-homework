@@ -1,0 +1,86 @@
+
+
+body{
+    background-image: url(images/bg-desktop.svg);
+    background-color: blueviolet;
+    font-family: "Poppins", sans-serif;
+  font-weight: 700;
+
+}
+
+
+.image1{
+    position: relative;
+    bottom: 320px;
+    left: 59px;
+}
+
+.image2{
+    position: relative;
+    top: 300px;
+    right: 230px;
+}
+
+.build{
+    position: relative;
+    left: 800px;
+    bottom: 170px;
+    color: white;
+}
+
+
+.p1{
+    position: relative;
+    left: 800px;
+    bottom: 140px;
+    color: white;
+}
+
+.btn1{
+    width: 300px;
+    height: 60px;
+    border-radius: 15px;
+    color: blueviolet;
+   position: relative;
+    left: 800px;
+    bottom: 100px;
+}
+
+.btn1:hover{
+    background-color: blueviolet;
+    color: white;
+    cursor: pointer;
+    
+}
+.inst-face-twit{
+    position: relative;
+   float: right;
+}
+
+.fill:hover{
+    fill: red;
+    cursor: pointer;
+}
+
+.fill1:hover{
+    fill: red;
+    cursor: pointer;
+}
+
+.f:hover{
+    cursor: pointer;
+    fill: red;
+}
+
+.ff:hover{
+    cursor: pointer;
+    fill: red;
+}
+
+.fff:hover{
+    cursor: pointer;
+    fill: red;
+}
+
+
+

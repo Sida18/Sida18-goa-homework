@@ -1,0 +1,362 @@
+body{
+    font-family: "Overpass", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600 ;
+  font-style: normal;
+overflow-x: hidden;
+}
+
+.blogr{
+    width: 1520px;
+    height: 500px;
+    background-color: hsl(356, 100%, 66%);
+    border-bottom-left-radius: 150px;
+}
+
+.blog{
+    position: relative;
+    left: 200px;
+    top: 60px;
+}
+
+.div1,.div2,.div3{
+    color: white;
+    display: inline-block;
+}
+
+.img1,.img2,.img3{
+    filter: brightness(0);
+    
+}
+
+.all{
+  display: flex;
+  gap: 35px;
+  position: relative;
+  left: 350px;
+  top: 12px;
+  cursor: pointer;
+}
+
+.img1{
+    position: relative;
+    bottom: 36px;
+    left: 70px;
+
+}
+.img2{
+    position: relative;
+    bottom: 36px;
+    left: 85px;
+
+}
+
+
+.log{
+    color: white;
+    cursor: pointer;
+    position: relative;
+    left: 1150px;
+    bottom: 60px;
+
+}
+
+.sign{
+    width: 150px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: whitesmoke;
+    font-size: 15px;
+    color: hsl(356, 100%, 66%);
+    border: 0px solid white;
+    cursor: pointer;
+    transition: background-color 1s;
+    position: relative;
+    left: 1250px;
+    bottom: 120px;
+    
+}
+
+.sign:hover{
+    background-color:  rgba(255, 0, 0, 0.313);
+    color: white;
+}
+
+.img3{
+    position: relative;
+    bottom: 36.5px;
+    left: 72px;
+
+}
+
+.modern{
+    position: relative;
+    left: 500px;
+    bottom: 20px;
+    color: white;
+}
+
+.grow{
+    position: relative;
+    left: 510px;
+    bottom: 10px;
+    color: hsl(240, 2%, 79%);
+
+}
+
+
+
+.free{
+    width: 150px;
+    height: 50px;
+    background-color: whitesmoke;
+    border-radius: 50px;
+    border: 0px solid white;
+    cursor: pointer;
+    color: hsl(356, 100%, 66%);
+    position: relative;
+    left: 550px;
+    transition: background-color 1s;
+}
+
+
+.learn{
+    width: 150px;
+    height: 50px;
+    background-color:rgba(255, 0, 0, 0.313) ;
+    border-radius: 50px;
+    border: 2px solid white;
+    cursor: pointer;
+    color: white;
+    position: relative;
+    left: 580px;
+    transition: background-color 1s;
+}
+
+
+
+.learn:hover{
+    background-color: white;
+    border: 1px solid white;
+    color: hsl(356, 100%, 66%);
+    
+}
+
+.free:hover{
+    background-color: rgba(255, 0, 0, 0.313);
+    color: white;
+}
+.future{
+  text-align: center;
+  position: relative;
+  right: 20px;
+  top: 50px;
+}
+.editor{
+    position: relative;
+    top: 150px;
+    left: 100px;
+}
+
+.blog1{
+    position: relative;
+    top: 160px;
+    left: 90px;
+    color: grey;
+}
+
+
+.content{
+    position: relative;
+    top: 250px;
+    left: 100px;
+}
+
+
+.Flexible{
+    color: grey;
+    position: relative;
+    top: 260px;
+    left: 90px;
+}
+
+
+.editor1{
+    width: 600px;
+    position: relative;
+    left: 800px;
+    bottom: 250px;
+}
+
+
+.div5{
+    width: 1500px;
+    height: 350px;
+    background-color:  hsl(237, 23%, 32%);
+    border-bottom-left-radius: 150px;
+
+}
+
+.phone{
+    position: relative;
+    bottom: 200px;
+    right: 570px;
+    z-index: 1;
+}
+
+.state{
+    position: relative;
+    bottom: 530px;
+    left: 800px;
+    color: white;
+}
+
+.with{
+    color: grey;
+    position: relative;
+    bottom: 520px;
+    left: 800px;
+}
+
+.circels{
+    width: 700px;
+    display: inline;
+    z-index: 1;
+    position: relative;
+    bottom: 300px;
+}
+
+.div6{
+    position: relative;
+    bottom: 100px;
+}
+
+.blog2{
+    color: grey;
+}
+
+.div7{
+    position: relative;
+    left: 800px;
+    top: 150px;
+}
+
+.Batteries{
+    color: grey;
+    
+}
+
+.div8{
+    position: relative;
+    top: 200px;
+    left: 800px;
+}
+
+.leptop{
+    width: 600px;
+    position: relative;
+    bottom: 210px;
+}
+
+.div9{
+    width: 1500px;
+    height: 400px;
+    background-color: hsl(240, 10%, 16%);
+    border-top-right-radius: 150px;
+}
+
+.blog3{
+    position: relative;
+    left: 150px;
+    top: 70px;
+}
+
+
+
+.p,.c,.cc{
+    display: inline-block;
+}
+
+.div10{
+    display: flex;
+    color: white;
+    gap: 200px;
+    position: relative;
+    left: 330px;
+    top: 20px;
+}
+
+.pro{
+    color: hsl(240, 2%, 79%);
+    position: relative;
+    left: 330px;
+    top: 20px;
+}
+
+.com{
+    color: hsl(240, 2%, 79%);
+    position: relative;
+    left: 600px;
+    bottom: 150px;
+}
+
+.con{
+    color: hsl(240, 2%, 79%);
+    position: relative;
+    left: 865px;
+    bottom: 300px;
+}
+
+
+#div12{
+  width: 230px;
+  height: 240px;
+  background-color: white;
+  position: relative;
+  bottom: 3000px;
+  left: 200px;
+  opacity: 0;
+}
+#div13{
+    width: 230px;
+    height: 220px;
+    background-color: white;
+    position: relative;
+    bottom: 3270px;
+    left: 500px;
+    opacity: 0;
+}
+
+#div14{
+    width: 230px;
+    height: 220px;
+    background-color: white;
+    position: relative;
+    bottom: 3500px;
+    left: 610px;
+    opacity: 0;
+}
+
+#a{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 15px;
+    font-size: 20px;
+}
+
+#o{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 20px;
+    font-size: 20px;
+}
+
+#f{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top:45px;
+    font-size: 20px;
+}

@@ -1,0 +1,65 @@
+
+body{
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal; 
+}
+
+h1{
+    color: blueviolet;
+    position: relative;
+    top: 30px;
+}
+
+.image{
+    max-width: 500px;
+}
+
+img{
+    position: relative;
+    left: 600px;
+}
+
+img:nth-of-type(2){
+    position: relative;
+    top: 40px;
+}
+
+button{
+    height: 60px;
+    background-color: blueviolet;
+    border-radius: 50px;
+    position: relative;
+    top: 60px;
+    left: 600px;
+}
+
+.conteiner{
+
+    position: static;
+
+}
+
+a{
+    text-decoration: none;
+    color: blueviolet;
+    font-size: 25px;
+    position: relative;
+    top: 190px;
+    left: 350px;
+}
+
+@media only screen and  (max-width: 800px){
+    .conteiner{
+        flex-direction: column;
+        position: relative;
+        right: 500px;
+    }
+
+    .image{
+        display: flex;
+        flex-direction: column;
+        width: 100px;
+        height: 100px;
+    }
+}

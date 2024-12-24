@@ -1,0 +1,28 @@
+
+.conteiner{
+    width: 450px;
+    height: 60px;
+    background-color: red;
+    border-radius: 150px;
+   
+}
+
+.conteiner::before{
+    content: '';
+    padding: 50px 170px 10px;
+    background-color: blue;
+    position: relative;
+    left: 100px;
+}
+
+.conteiner::after{
+    content: 'd';
+   padding: 5px 10px;
+   border-radius: 50px;
+    background-color: white;
+    position: relative;
+    left: 0px;
+    
+
+}
+

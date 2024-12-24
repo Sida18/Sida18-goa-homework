@@ -1,0 +1,102 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@600;700&family=Lexend+Deca:wght@700&family=Poppins:wght@700&family=Roboto:wght@700&display=swap');
+
+
+body{
+font-family: Roboto;
+}
+
+.a{
+color:aquamarine ;
+position: relative;
+left: 55px;
+
+}
+
+.s{
+color: aquamarine;
+position: relative;
+left: 350px;
+top: 100px;
+}
+.conteiner{
+width: 850px;
+height: 800px;
+border: 4px solid aquamarine;
+border-bottom-right-radius: 30px;
+border-top-right-radius: 30px;
+}
+
+.secondconteiner{
+width: 570px;
+height: 350px;
+border: 4px solid aquamarine;
+position: relative;
+left: 150px;
+top: 200px;
+border-bottom-right-radius: 30px;
+border-top-right-radius: 30px;
+
+
+}
+
+.d{
+border-radius: 5px;
+height: 20px;
+background-color: black;
+position: relative;
+left: 60px;
+}
+
+.d::placeholder{
+color: aquamarine;
+}
+
+.f{
+    border-radius: 5px;
+    height: 20px;
+    background-color: black;
+    position: relative;
+    left: 140px;
+}
+
+.f::placeholder{
+color: aquamarine;
+
+
+}
+
+.g{
+    border-radius: 5px;
+    height: 20px;
+    background-color: black;
+    position: relative;
+    left: 240px;
+}
+
+.g::placeholder{
+color: aquamarine;
+}
+
+.h{
+    border-radius: 5px;
+    height: 20px;
+    background-color: black;
+    position: relative;
+    left: 340px;
+}
+.h::placeholder{
+color: aquamarine;
+}
+
+.j{
+color: aquamarine;
+position: relative;
+left: 300px;
+top: 30px;
+font-size: 40px;
+}
+.dfgh{
+position: relative;
+top: 10px;
+}

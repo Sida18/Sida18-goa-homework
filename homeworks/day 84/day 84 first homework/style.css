@@ -1,0 +1,134 @@
+body{
+    font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+#age-calculator{
+    width: 700px;
+    height: 550px;
+    background-color:whitesmoke ;
+    box-shadow: 0px 10px 30px 5px;
+    border-bottom-right-radius: 150px;
+   
+}
+
+
+h3{
+    color: grey;
+     display: inline;
+     position: relative;
+     left: 40px;
+}
+
+h3:nth-of-type(3){
+    position: relative;
+    left:340px ;
+}
+
+h3:nth-of-type(2){
+    position: relative;
+    left:200px ;
+}
+
+#day{
+    width: 160px;
+    height: 60px;
+    border-radius: 15px;
+    position: relative;
+    left: 40px;
+   top: 10px;
+   font-size: 25px;
+}
+
+#month{
+    width: 160px;
+    height: 60px;
+    border-radius: 15px;
+    position: relative;
+    left: 60px;
+    top: 10px;
+    font-size: 25px; 
+}
+
+#year{
+    width: 160px;
+    height: 60px;
+    border-radius: 15px;
+    position: relative;
+    left: 80px;
+    top: 10px;   font-size: 25px;
+
+}
+
+hr{
+    position: relative;
+    top: 80px;
+    right: 40px;
+    width: 550px;
+}
+
+.arrow{
+
+position: relative;
+left: 550px;
+top: 30px;
+}
+
+.back{
+  width: 70px;
+  height: 70px;
+background-color: blueviolet;
+border-radius: 150px;
+transition: background-color 2s ;
+}
+
+.back:hover{
+    background-color: black;
+}
+
+
+
+span{
+    color: blueviolet;
+}
+
+.year-month-day{
+    font-size: 90px;
+    position: relative;
+    left: 100px;
+    bottom: 50px;
+}
+
+
+#error1{
+    display: inline-block;
+    position: relative;
+    top: 60px;
+    right: 90px;
+    color: red;
+    opacity: 0  ;
+}
+
+#error2{
+    display: inline-block;
+    position: relative;
+    top: 5px;
+    left: 50px;
+    color: red;
+    opacity: 0;
+}
+
+#error3{
+    display: inline-block;
+    position: relative;
+    top: 5px;
+    left: 90px;
+    color: red;
+    opacity: 0;
+}
+
+#span1{
+    opacity: 0;
+}
+

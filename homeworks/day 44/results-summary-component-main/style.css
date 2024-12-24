@@ -1,0 +1,257 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    font-family: "Hanken Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal; 
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.conteiner{
+    width: 700px;
+    height: 485px;
+  background-color :rgb(250, 252, 250);
+  display: grid;
+  border-radius: 15px;
+}
+
+
+.div1{
+    width: 300px;
+    height: 60px;
+    background-color:   rgba(255, 0, 0, 0.393);
+    border-radius: 15px;
+    opacity: 0.4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image1{
+    
+  
+    position: relative;
+    top: 0px;
+    height: 30px;
+    
+}
+
+
+
+.grid{
+    background-color: grey;
+    width: 300px;
+    height: 60px;
+    border-radius: 15px;
+}
+
+.p2{
+    display: inline;
+    color: red;
+}
+
+.p3{
+    color: black;
+    position: relative;
+    left: 25px;
+    font-size: 17px;
+}
+
+
+.grid-item2{
+    background-color:   rgba(255, 255, 0, 0.292);   
+    opacity: 0.4; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image2{
+    position: relative;
+    top: 0px;
+    height: 30px;
+    
+}
+
+
+.p4{
+    display: inline;
+    color: yellow;
+    position: relative;
+    left: 5px;
+}
+
+
+.p5{
+    position: relative;
+    left: 25px;
+    font-size: 17px;
+}
+
+
+.grid-item3{
+    background-color:   rgba(0, 128, 0, 0.116);   
+    opacity: 0.4; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image3{
+    position: relative;
+    top: 0px;
+    height: 30px;
+}
+
+.p6{
+    color: green;
+    position: relative;
+    left: 5px;
+}
+
+.p7{
+    position: relative;
+    left: 25px;
+}
+
+
+.grid-item4{
+    background-color: rgba(0, 0, 255, 0.288);
+    opacity: 0.4; 
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+
+.image4{
+    position: relative;
+    top: 0px;
+    height: 30px; 
+}
+
+.p8{
+    color: blue;
+    position: relative;
+    left: 5px;
+}
+
+.p9{
+    position: relative;
+    left: 25px;
+    font-size: 17px;
+
+}
+
+
+.p1{
+    position: relative;
+    left: 500px;
+    top: 10px;
+}
+
+.god{
+position: relative;
+left: 370px;
+bottom: 0px;
+top: 20px;
+}
+
+.container{
+    width: 300px;
+    height: 60px;
+    background-color:black;
+    border-radius: 30px;
+    position: relative;
+    left: 370px;
+    bottom: 0px;
+    top: 45px;
+}
+
+.container:hover{
+    cursor: pointer;
+    background-color:hsl(241, 81%, 54%) ;
+}
+
+
+
+.p10{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 20px;
+}
+
+
+.div2{
+    position: relative;
+    bottom: 350px;
+    color: white;
+}
+
+.p11{
+    font-size: 30px;
+    position: relative;
+    left: 75px;
+    top: 15px;
+}
+
+.p12{
+    font-size: 30px;
+   position: relative;
+   left: 50px;
+   top: 5px;
+}
+
+.p13{
+    font-size: 30px;
+    position: relative;
+    left: 120px;
+    top: 30px;
+}
+
+.p14{
+    
+    color: gray;
+    position: relative;
+    left: 30px;
+}
+
+.div3{
+
+   background-color:hsl(241, 81%, 54%);
+    position: relative;
+    left: 10px;
+    transform: translateY(-20px);
+    border-radius: 15px;
+    width: 350px;
+    height: 450px;
+}
+
+
+.con{
+    width: 150px;
+    height: 90px;
+    background-color: red;
+    border-radius: 100px;
+    position: relative;
+    left: 90px;
+    background-color: rgba(12, 0, 139, 0.409);
+   
+} 
+
+
+
+
+

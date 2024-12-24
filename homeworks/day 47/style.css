@@ -1,0 +1,470 @@
+
+
+body{
+    font-family: "League Spartan", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.a{
+    color:  hsl(300, 43%, 22%);
+   
+}
+
+.p1 {
+    color: gray;
+ 
+}
+
+.item{
+    width: 450px;
+    height: 80px;
+    display: flex;
+    border-radius: 8px;
+
+}
+
+.div5{
+    display: flex;
+    gap: 5px;
+    transform: translateY(-7px);
+}
+
+.div2{
+    position: relative;
+    left: -0px;
+}
+
+
+.p2{
+   
+display: flex;
+justify-content: center;
+position: relative;
+right: -100px;
+transform: translateY(-5px); 
+}
+
+.p4{
+    display: flex;
+justify-content: center;
+}
+
+.p3{
+    position: relative;
+    bottom: 5px;
+    transform: translateX(100px);
+}
+
+.div5{
+    position: relative;
+    right: 105px;
+    top: 35px;
+    display: flex;
+    gap: 5px;
+    transform: translateX(55px) translateY(-7px);
+}
+
+
+.item1{
+    background-color:hsla(333, 80%, 67%, 0.087) ;
+
+    display: flex;
+    justify-content: center;
+   
+   color: hsl(300, 43%, 22%);
+}
+
+.div4{
+    position: relative;
+    right: 90px;
+    display: flex;
+    gap: 5px;
+    transform: translateY(25px) translateX(50px);
+}
+
+.item2{
+    background-color:hsla(333, 80%, 67%, 0.087) ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: hsl(300, 43%, 22%);
+    position: relative;
+    left: 100px;
+}
+
+.item3{
+   background-color: hsla(333, 80%, 67%, 0.087);
+    display: flex;
+    justify-content: center;
+    position: relative;
+    right: 0px;
+    left: 200px;
+   
+}
+.conteiner{
+    display: flex;
+    gap: 15px;
+    flex-direction: column;
+    position: relative;
+    left: 515px;
+    bottom: 200px;
+}
+.p4{
+    display: flex;
+    justify-content: center;
+  position: relative;
+  right: -100px;
+  transform: translateY(-5px);
+  color: hsl(300, 43%, 22%);
+}
+
+.card{
+    background-color: red;
+    width: 400px;
+    height: 270px;
+    position: relative;
+    top: 100px;
+    border: 1px solid white;
+}
+
+.image{
+    border-radius: 150px;
+    height: 50px;
+    position: relative;
+    top: 30px;
+    left: 10px;
+}
+
+
+
+.p6{
+    color: hsl(333, 80%, 67%);
+display: inline;
+position: relative;
+bottom: 10px;
+
+}
+
+.divv{
+    position: relative;
+    left: 75px;
+    bottom: 33px;
+}
+
+.p7{
+    color: white;
+    position: relative;
+    bottom: 40px;
+    left: 10px;
+}
+
+.p8{
+    color: hsl(333, 80%, 67%);
+    display: inline;
+    position: relative;
+    bottom: 50px;
+    
+}
+
+.image1{
+    border-radius: 150px;
+    height: 50px;
+    position: relative;
+    top: 30px;
+    left: 10px;  
+}
+
+.dov{
+    position: relative;
+    left: 93px;
+    bottom: 0px;
+    top: 4px;
+    transform: translateX(-20px);
+}
+
+
+.p9{
+    color: white;
+    position: relative;
+    bottom: 40px;
+    left: 10px;
+}
+
+
+.image2{
+    border-radius: 150px;
+    height: 50px;
+    position: relative;
+    top: 30px;
+    left: 10px;   
+}
+
+.p11{
+    display: inline;
+    position: relative;
+    bottom: 10px;
+    color: hsl(333, 80%, 67%);
+}
+
+.doov{
+    position: relative;
+    left: 70px;
+    bottom: 35px;
+}
+
+.p12{
+    color: white;
+    position: relative;
+    bottom: 37px;
+    left: 10px;
+}
+
+.p10{
+    color: white;
+}
+
+
+.p5{
+color: white;
+}
+
+.card1{
+    background-color: hsl(300, 43%, 22%);
+     transform: translateY(-350px);
+}
+
+.card2{
+    background-color: hsl(300, 43%, 22%);
+    transform: translateY(-550px) translateX(480px);
+}
+
+
+.card3{
+    background-color: hsl(300, 43%, 22%);
+    transform: translateY(-700px) translateX(950px);
+}
+
+.card{
+    border-radius: 8px;
+}
+
+@media only screen and ( max-width: 800px ){
+    .a{
+        color:  hsl(300, 43%, 22%);
+     position: relative;
+    left: 80px
+    }
+    
+    .p1 {
+        color: gray;
+           position: relative;
+    left: 25px;
+    }
+    
+    .item{
+        width: 400px;
+        height: 80px;
+        border: 1px solid white;
+         border-radius: 8px;
+         display: flex;
+         flex-direction: column;
+         justify-content: center;
+         align-items: center;
+    }
+    
+    .p5{
+        color: white;
+    }
+    
+     .p10{
+        color: white;
+     }
+
+    .div2{
+        position: relative;
+        left: -0px;
+    }
+    
+    .div4{
+        position: relative;
+        right: -70px;
+        transform: translateY(-2px) translateX(-23px);
+    }
+    
+    .p2{
+       
+    display: flex;
+    justify-content: center;
+    position: relative;
+    right: 10px;
+    }
+    
+    .p4{
+        display: flex;
+    justify-content: center;
+    }
+    .div5{
+      
+    position: relative;
+        right: -56px;  
+        transform: translateY(-30px) translateX(-20px);
+    }
+    
+    .div1{
+       position: relative;
+        left: -0px;   
+    }
+    
+    
+    
+    .item1{
+        background-color:hsla(333, 80%, 67%, 0.087) ;
+    
+        display: flex;
+        justify-content: center;
+       
+       color: hsl(300, 43%, 22%);
+       position: relative;
+       right: 530px;
+       top: 200px;
+    }
+    .p3{
+       transform: translateX(-18px);
+    }
+    
+    .item2{
+        background-color:hsla(333, 80%, 67%, 0.087) ;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: hsl(300, 43%, 22%);
+        position: relative;
+        left: -530px;
+        top: 200px;
+    }
+    
+    .item3{
+       background-color: hsla(333, 80%, 67%, 0.087);
+        display: flex;
+        justify-content: center;
+        position: relative;
+        left: -530px;
+        top: 200px;
+       
+    }
+    .conteiner{
+        display: grid;
+    }
+    .p4{
+        display: flex;
+        justify-content: center;
+      position: relative;
+      right: -0px;
+      color: hsl(300, 43%, 22%);
+    }
+    
+    .card{
+        background-color: hsl(300, 43%, 22%);
+        width: 400px;
+        height: 270px;
+        position: relative;
+        top: 100px;
+        transform: translateY(-50px);
+        border: 1px solid white;
+        border-radius: 8px;
+    }
+    
+    .image{
+        border-radius: 150px;
+        height: 50px;
+        position: relative;
+        top: 30px;
+        left: 10px;
+    }
+    
+    
+    
+    .p6{
+        color: hsl(333, 80%, 67%);
+    display: inline;
+    position: relative;
+    bottom: 10px;
+    
+    }
+    
+    .divv{
+        position: relative;
+        left: 75px;
+        bottom: 33px;
+    }
+    
+    .p7{
+        color: white;
+        position: relative;
+        bottom: 40px;
+    }
+    
+    .p8{
+        color: hsl(333, 80%, 67%);
+        display: inline;
+        position: relative;
+        bottom: 50px;
+        
+    }
+    
+    .image1{
+        border-radius: 150px;
+        height: 50px;
+        position: relative;
+        top: 30px;
+        left: 10px;  
+    }
+    
+    .dov{
+        position: relative;
+        left: 93px;
+        bottom: 0px;
+        top: 4px;
+        transform: translateX(-20px);
+    }
+    
+    
+    .p9{
+        color: white;
+        position: relative;
+        bottom: 40px;
+    }
+    
+    
+    .image2{
+        border-radius: 150px;
+        height: 50px;
+        position: relative;
+        top: 30px;
+        left: 10px;   
+    }
+    
+    .p11{
+        display: inline;
+        position: relative;
+        bottom: 10px;
+        color: hsl(333, 80%, 67%);
+    }
+    
+    .doov{
+        position: relative;
+        left: 70px;
+        bottom: 30px;
+    }
+    
+    .p12{
+        color: white;
+        position: relative;
+        bottom: 37px;
+    }
+    
+
+    
+}

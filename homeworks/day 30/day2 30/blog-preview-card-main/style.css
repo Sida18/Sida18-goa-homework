@@ -1,0 +1,52 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@700&display=swap');
+
+ 
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@700&display=swap');
+
+
+.p1 {
+display: inline;
+background-color:rgb(255, 225, 0);
+font-size: 30px;
+font-family:Figtree ;
+}
+
+.p2{
+color: yellow;
+font-size: 30px;
+font-family: Figtree;
+}
+
+
+
+
+.p3 {
+color: rgba(128, 128, 128, 0.934);
+font-family: Figtree;
+}
+
+ol {
+list-style-image: url(file:///C:/Users/Administrator/AppData/Local/Temp/Rar$DIa7384.32472/image-avatar.webp);
+}
+
+
+
+
+li {
+font-family: Figtree;
+}
+
+
+.conteiner {
+width: 400px;
+height: 560px;
+border: 10px solid black;
+border-radius: 15px;
+position: relative;
+left: 600px;
+}

@@ -1,0 +1,79 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+
+
+body{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+height: 100vh;
+display: grid;
+
+grid-template-areas: 
+'aside header header section1 '
+'aside section2 section3 nav'
+'aside section4 section5 nav'
+;
+
+grid-template-columns: 250px  720px 720px 250px;
+grid-template-rows: 150px;
+
+}
+
+
+header{
+grid-area: header;
+background-color: green;
+}
+
+aside{
+grid-area: aside;
+background-color: green;
+}
+section{
+border: 1px solid whitesmoke;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+nav{
+grid-area: nav;
+background-color: green;
+}
+
+aside,header,nav{
+border: 1px solid whitesmoke;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+
+
+section:nth-of-type(1){
+background-color: red;
+}
+
+section:nth-of-type(2){
+background-color: orange;
+}
+
+
+section:nth-of-type(3){
+background-color: red;
+}
+
+
+section:nth-of-type(4){
+    background-color: red;
+    }
+
+    
+section:nth-of-type(5){
+background-color: orange;
+}
+
+
+

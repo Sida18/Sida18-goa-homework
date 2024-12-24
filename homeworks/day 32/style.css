@@ -1,0 +1,123 @@
+  @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@700&display=swap');
+
+
+
+  body{
+background-color:hsl(217, 54%, 11%) ;
+font-family: Outfit;
+}
+
+.s{
+font-size: 20px;
+color: white;
+}
+
+
+.a:hover{
+
+color:hsl(178, 100%, 50%) ;
+cursor: pointer;
+}
+
+.d{
+color: grey;
+}
+.f{
+color: gray;
+}
+
+.h{
+color:hsl(178, 100%, 50%) ;
+position: relative;
+left: 20px;
+}
+.g{
+position: relative;
+top: 40px;
+}
+
+.j{
+position: relative;
+left: 160px;
+bottom: 35px;
+}
+
+
+.k{
+
+color: gray;
+position: relative;
+left: 180px;
+bottom: 73px;
+}
+
+hr{
+width: 230px;
+position: relative;
+right: 640px;
+bottom: 40px;
+color: red;
+left: -0px;
+margin-left: 10px;
+}
+
+.l{
+width: 40px;
+height: 40px;
+position: relative;
+
+}
+
+.q{
+display: inline;
+position: relative;
+bottom: 15px;
+color: grey;
+}
+
+.w{
+display: inline;
+position: relative;
+left: 130px;
+bottom: 50px;
+right: 100px;
+color: grey;
+}
+
+.e:hover{
+color:hsl(178, 100%, 50%) ;
+cursor: pointer;
+}
+
+.conteiner{
+width: 350px;
+height: 650px;
+border: 1px solid;
+position: relative;
+left: 600px;
+border-radius: 0.5rem;
+background-color:hsl(216, 50%, 16%) ;
+}
+.r{
+border-radius: 0.5rem;
+position: relative;
+left: 40px;
+right: 200px;
+}
+
+
+.t{
+position: absolute;
+background-color:hsl(178, 100%, 50%,75%); 
+left: 130px; 
+top: 100px;
+width: 100px;
+border-radius: 10px;
+opacity: 0;
+z-index: 999;
+}
+.t:hover{
+opacity: 1;
+cursor: pointer;
+
+}

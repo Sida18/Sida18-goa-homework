@@ -1,0 +1,16 @@
+.white{
+    width: 1530px;
+    height: 500px;
+    background-color: orange;
+    position: relative;
+    bottom: 130px;
+  border-bottom-right-radius: 150px;
+}
+
+.about{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 55vh;
+}

@@ -1,0 +1,17 @@
+
+
+
+
+body{
+    font-family: "Hanken Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+
+.container{
+    width: 401px;
+    height: 400px;
+    background-color: white;
+}

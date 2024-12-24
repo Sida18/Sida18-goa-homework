@@ -1,0 +1,403 @@
+body{
+    font-family: "Kumbh Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+   overflow-x: hidden;
+  
+}
+
+
+
+.sneaker{
+    position: relative;
+    left: 25px;
+    color: black;
+    opacity: 0.976;
+    
+}
+
+
+.collections{
+    color: gray;
+    display: flex;
+    gap: 30px;
+    position: relative;
+    left: 210px;
+    bottom: 56px;
+}
+
+#Cartimage{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    left: 500px;
+    top: 3px;
+    cursor: pointer;
+}
+
+hr{
+    width: 1200px;
+    position: relative;
+    left:  -140px;
+    bottom: 25px;
+}
+
+#img1{
+width: 400px;
+height: 400px;
+border-radius: 25px;
+position: relative;
+left: 100px;
+top: 50px;
+}
+
+
+.image{
+    width: 90px;
+    height: 90px;
+    border-radius: 20px;
+    position: relative;
+    left: 110px;
+     top: 80px;
+   
+    
+}
+
+#image3{
+    position: relative;
+    left: 195px;
+}
+
+#image2{
+    position: relative;
+    left: 150px;
+}
+#image1:hover{
+    border:  5px solid orange;
+    opacity: 0.5;
+}
+
+#image2:hover{
+    border:  5px solid orange;
+    opacity: 0.5;
+}
+
+#image3:hover{
+    border:  5px solid orange;
+    opacity: 0.5;
+}
+
+.Company{
+    color: gray;
+    position: relative;
+    left: 650px;
+    bottom: 400px;
+}
+
+.fall{
+   position: relative;
+   left: 650px;
+   bottom: 400px;
+}
+
+.text{
+    color:gray;
+    max-width: 650px;
+    position: relative;
+    left: 650px;
+    bottom: 400px;
+}
+
+.dollars{
+    position: relative;
+    left: 650px;
+    bottom: 370px;
+}
+.color{
+    background-color: black;
+    color: white;
+    width: 60px;
+    height: 30px;
+    border-radius: 15px;
+    position: relative;
+    left: 30px;
+}
+.prosent{
+    position: relative;
+    left: 800px;
+    bottom: 423.9px;
+}
+
+
+.span1{
+    position: relative;
+    left: 13px;
+    top: 5px;
+}
+
+.dollars1{
+    text-decoration: line-through;
+    color: grey;
+    position: relative;
+    left: 650px;
+    bottom: 410px;
+}
+
+#go{
+    width: 230px;
+    height: 60px;
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+    border: solid;
+    cursor: pointer;
+    position: relative;
+    bottom: 230px;
+    left: 100px;
+}
+
+#first{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border-radius: 50px;
+    position: relative;
+    left: 850px;
+    bottom: 700px;
+    z-index: 1;
+    cursor: pointer;
+}
+
+#next{
+    position: relative;
+    left: 40px;
+    top: 35px;
+   width: 20px;
+}
+
+
+#second{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border-radius: 50px;
+    position: relative;
+    left: 350px;
+    bottom: 800px;
+    z-index: 1;
+    cursor: pointer;
+}
+
+
+#next1{
+    position: relative;
+    left: 40px;
+    top: 35px;
+   width: 20px;
+   transform: rotate(180deg);
+   
+}
+
+
+
+
+#show{
+    width: 500px;
+height: 500px;
+border-radius: 25px;
+position: relative;
+left: 400px;
+bottom: 1100px;
+background-color: black;
+
+}
+
+
+#all{
+  opacity: 0;
+}
+
+#show1{
+    width: 500px;
+    height: 500px;
+    border-radius: 25px;
+    position: relative;
+    bottom: 1100px;
+    right: 105px;
+}
+
+#show2{
+    width: 500px;
+    height: 500px;
+    border-radius: 25px;
+    position: relative;
+    bottom: 1604px;
+    left: 400px;
+    opacity: 0;
+}
+
+#close{
+    position: relative;
+    bottom: 2110px;
+    left: 350px;
+    cursor: pointer;
+}
+
+
+
+#div2{
+     background-color: rgba(137, 43, 226, 0.062);
+     width: 185px;
+     border-radius: 15px;
+     position: relative;
+     bottom:1650px;
+     left: 640px;
+}
+
+#zero{
+    position: relative;
+    left: 85px;
+    top: 20px;
+}
+
+
+#minus{
+    position: relative;
+     bottom: 26px;
+     left: 35px;
+     cursor: pointer;
+}
+
+#pluse{
+    position: relative;
+    left: 120px;
+    bottom: 23px;
+    cursor: pointer;
+}
+
+.cartBtn{
+    width: 300px;
+    height: 60px;
+    border-radius: 15px;
+    background-color: orange;
+    border: 1px solid white;
+    transition: transform 2s;
+    cursor: pointer;
+    position: relative;
+    bottom: 1710px;
+     left: 900px;
+}
+
+.add{
+    font-size: 17px;
+    position: relative;
+    bottom: 3px;
+    left: 15px;
+    
+}
+.cartBtn:hover{
+    transform: scale(1.1);
+}
+
+#empty{
+    width: 300px;
+    height: 250px;
+    background-color: rgb(250, 247, 247);
+ box-shadow: 0px 5px 10px 30px;
+    position: relative;
+    left: 1050px;
+    bottom: 2360px;
+    border-radius: 15px;
+   
+    opacity: 0;
+}
+
+#cart2{
+    position: relative;
+    left: 30px;
+    top: 10px;
+}
+
+#ur{
+    color: grey;
+    position: relative;
+    top: 60px;
+    left: 70px;
+   
+    
+}
+
+.avatar{
+     display: inline;
+    position: relative;
+    bottom: 2675px;
+    width: 60px;
+    height: 60px;
+    left: 1200px;
+    border-radius: 50px;
+}
+
+.avatar:hover{
+    display: inline;
+      border: 3px solid orange;
+}
+
+
+
+
+@media only screen and (max-width: 300px){
+    #img1{
+        width: 250px;
+        height: 250px;
+        position: relative;
+        left: 10px;
+    }
+
+     #image1{
+        display: none;
+     }
+
+     #image2{
+         display: none;
+     }
+
+     #image3{
+        display: none;
+     }
+
+
+     #go{
+        display: none;
+     }
+
+     #hello{
+        position: relative;
+        top: 450px;
+        right: 650px;
+     }
+
+     #div2{
+        position: relative;
+        left: -0px;
+        left: 30px;
+        transform: translateY(-30px);
+     }
+
+     .cartBtn{
+        position: relative;
+        left: 0;
+       
+       left: 10px;
+        
+       width: 250px;
+       margin-top: 70px;
+       
+       
+
+     }
+
+     .cartBtn:hover{
+        display: inline;
+     }
+}

@@ -1,0 +1,159 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@700&display=swap');
+
+*{
+
+ padding: 0;
+ margin: 0;
+ box-sizing: border-box;
+}
+
+
+
+body{
+  
+  font-family:Outfit ;
+ background-color: hsl(30, 54%, 90%);
+}
+
+.p1{
+display: inline;
+color: gray;
+width: 1px;
+}
+
+.pf{
+color: hsl(14, 45%, 36%);
+position: relative;
+top: 45px;
+}
+
+.ull{
+position: relative;
+left: 20px;
+top: 30px;
+line-height: 29px;
+}
+
+.div1{
+width: 400px;
+height: 120px;
+background-color:hsl(330, 100%, 98%) ;
+border-radius: 15px;
+
+}
+
+.in{
+color:hsl(14, 45%, 36%) ;
+}
+
+.ull1{
+position: relative;
+left: 20px;
+line-height: 29px;
+}
+
+hr{
+width: 500px;
+}
+
+.inn{
+color: hsl(14, 45%, 36%);
+
+}
+
+
+ol{
+position: relative;
+left: 20px;
+}
+
+.hrr{
+width: 500px;
+}
+
+.nu{
+color:hsl(14, 45%, 36%) ;
+}
+
+.nut{
+color: grey;
+}
+
+.div2{
+display: inline;
+}
+
+.kcal{
+position: relative;
+left: 250px;
+bottom: 18px;
+color:hsl(14, 45%, 36%) ;
+}
+
+.cal{
+position: relative;
+left: 25px;
+
+}
+
+.car,.g{
+display: inline;
+}
+
+.car{
+position: relative;
+left: 25px;
+}
+
+.g{
+position: relative;
+left: 210px;
+color:hsl(14, 45%, 36%) ;
+}
+
+
+.pro,.g2{
+display: inline;
+position: relative;
+top: 20px;
+}
+
+.pro{
+position: relative;
+left: 25px;
+}
+
+.g2{
+position: relative;
+left: 200px;
+color:hsl(14, 45%, 36%) ;
+}
+
+.fa{
+position: relative;
+left: 25px;
+}
+
+.g3{
+position: relative;
+left: 260px;
+bottom: 20px;
+color: hsl(14, 45%, 36%);
+}
+
+.img1{
+border-radius: 15px;
+position: relative;
+left: 20px;
+}
+
+.conteiner{
+width: 510px;
+height: 1500px;
+background-color: hsl(0, 0%, 100%) ;
+border-radius: 15px;
+position: relative;
+left: 500px;
+}

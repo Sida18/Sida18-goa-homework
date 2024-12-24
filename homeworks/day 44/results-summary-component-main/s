@@ -1,0 +1,9 @@
+
+.p1{
+    position: relative;
+    left: 500px;
+}
+
+.p2
+<img src="./assets/images/icon-reaction.svg" alt="">
+<p class="p2">Reaction</p>

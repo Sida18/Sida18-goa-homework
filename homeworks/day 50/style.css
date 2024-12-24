@@ -1,0 +1,70 @@
+body{
+    font-family: "Kumbh Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+      "YOPQ" 300;
+      background-color: hsl(185, 75%, 39%) ;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+}
+
+.conteiner{
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.image1{
+    width: 400px;
+  
+}
+
+.image2{
+    border-radius: 50px;
+    border: 6.5px solid white;
+    position: relative;
+    left: 140px;
+    bottom: 50px;
+    
+}
+
+
+
+.p1{
+    position: relative;
+    left: 140px;
+    bottom: 50px;
+}
+
+.span1{
+    position: relative;
+    left: 20px;
+    top: 20px;
+    color: gray;
+    font-size: 16px;
+}
+
+
+.div1{
+    display: grid;
+    grid-template-columns: repeat(3,100px);
+      position: relative;
+    bottom: 30px;
+    left: 70px;
+    
+}
+
+.span2,.span3,.span4{
+    display: block;
+    color: grey;
+    font-size: 12px;
+    position: relative;
+    top: 10px;
+   
+}
+

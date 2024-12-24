@@ -1,0 +1,19 @@
+.grey{
+ color: gray;
+}
+
+.name{
+  width: 400px;
+  height: 40px;
+  
+   filter: brightness(1);
+   
+   border: 1px solid rgb(128, 128, 128);
+   background-color: rgba(81, 81, 81, 0.441);
+   border-radius: 8px;
+}
+
+.king{
+  position: relative;
+  left: 520px;
+}

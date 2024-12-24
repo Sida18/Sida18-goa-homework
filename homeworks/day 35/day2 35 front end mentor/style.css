@@ -1,0 +1,153 @@
+
+ 
+ @import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@700&family=Poppins:wght@700&display=swap');
+
+
+body{
+font-family: Poppins;
+
+
+
+}
+
+.a{
+display: inline;
+position: relative;
+left: 500px;
+}
+
+.s{
+
+position: relative;
+bottom: 20px;
+left: 500px;
+
+}
+
+.d{
+position: relative;
+left: 51px;
+color:hsl(229, 6%, 66%) ;
+bottom: 10px;
+}
+
+.f{
+color: hsl(229, 6%, 66%);
+}
+
+.g{
+position: relative;
+left: 450px;
+bottom: 20px;
+}
+
+
+.h{
+width: 350px;
+height: 210px;
+border-top: 3px solid cyan;
+background-color: hsl(0, 0%, 98%);
+position: relative;
+top: 160px;
+left: 150px;
+}
+
+.j{
+position: relative;
+left: 25px;
+}
+
+.k{
+color: hsl(229, 6%, 66%);
+position: relative;
+left: 25px;
+}
+
+
+.l{
+position: relative;
+left: 250px;
+}
+
+
+.q{
+
+    width: 365px;
+    height: 210px;
+    border-top: 3px solid red;
+    background-color: hsl(0, 0%, 98%);
+    position: relative;
+    left: 540px;
+    bottom: 230px;
+  
+}
+
+
+
+.w{
+position: relative;
+left: 25px;
+}
+
+.e{
+color:hsl(229, 6%, 66%);
+position: relative;
+left: 25px;
+}
+
+.r{
+position: relative;
+left: 250px;
+}
+
+
+.t{
+    width: 365px;
+    height: 210px;
+    border-top: 3px solid blue;
+    background-color: hsl(0, 0%, 98%);
+    position: relative;
+    left: 930px;
+    bottom: 255px;
+   
+}
+
+.y{
+position: relative;
+left: 25px;
+}
+.u{
+position: relative;
+left: 25px;
+color: hsl(229, 6%, 66%);
+}
+
+.i{
+position: relative;
+left: 250px;
+}
+.o{
+    width: 365px;
+    height: 210px;
+    border-top: 3px solid orange;
+    background-color: hsl(0, 0%, 98%);
+    position: relative;
+    left: 540px;
+    bottom: 270px;
+   
+}
+
+.p{
+position: relative;
+left: 25px;
+}
+.z{
+position: relative;
+left: 25px;
+color:hsl(229, 6%, 66%) ;
+}
+
+.x{
+position: relative;
+left: 250px;
+}

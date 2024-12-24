@@ -1,0 +1,110 @@
+.lion{
+  width: 1530px;
+  height: 500px;
+  background-color: orange;
+  position: relative;
+  bottom: 130px;
+border-bottom-right-radius: 150px;
+}
+
+.about{
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 55vh;
+}
+
+.sign-up{
+  width: 150px;
+  height: 60px;
+  background-color: red; 
+  transition-property: background-color, color;
+ transition-duration: 1.5s;
+ position: relative;
+ left: 1150px;
+ bottom: 400px;
+}
+
+.sign-up:hover{
+ background-color: white;
+ color: black;
+
+}
+
+.log-in{
+  width: 150px;
+  height: 60px;
+  background-color: white; 
+  transition-property: background-color, color;
+ transition-duration: 1.5s;
+ color: black;
+ position: relative;
+ left: 1200px;
+ bottom: 400px;
+}
+.log-in:hover{
+  background-color: red;
+  color: white;
+ 
+ }
+ 
+
+.hello{ 
+   display: flex;
+  justify-content: center;
+  color:rgb(94, 92, 92);
+  position: relative;
+  bottom: 250px;
+
+}
+
+.learn{
+  display: flex;
+  justify-content: center;
+  color: rgb(94, 92, 92) ;
+  transform: translateY(-230px);
+  position: relative;
+  left: 20px;
+}
+
+.eat{
+  position: relative;
+  top: 50px;
+  left: 100px;
+}
+
+.eating{
+  color:  rgb(94, 92, 92);
+  position: relative;
+  left: 102px;
+  top: 30px;
+
+}
+
+.hunt{
+  position: relative;
+  left: 900px;
+  bottom: 250px;
+}
+
+.hunting{
+  color:  rgb(94, 92, 92);
+  position: relative;
+  right: 85px;
+  bottom: 290px;
+  float: right;
+  
+}
+.king{
+  display: flex;
+  justify-content: center;
+  position: relative;
+  left: 250px;
+}
+
+.kinging{
+  color:rgb(94, 92, 92) ;
+  position: relative;
+  left: 430px;
+}

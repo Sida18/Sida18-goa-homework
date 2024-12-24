@@ -1,0 +1,25 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th {
+    background-color: yellow;
+}
+
+
+.a{
+    background-color: yellow;
+    padding: 10px;
+}
+.s{
+    background-color: yellow;
+    padding: 10px;
+}
+.d{
+background-color: yellow;
+padding: 10px;
+}
+.f{
+    background-color: yellow;
+    padding: 10px;
+}

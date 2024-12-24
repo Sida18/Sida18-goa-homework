@@ -1,0 +1,105 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@700&display=swap');
+
+
+body{
+display: flex;
+justify-content: center;
+align-items: center;
+min-height: 100vh;
+background-color: hsla(0, 0%, 100%, 0.75);
+
+}
+
+
+.conteiner{
+display: flex;
+width: 900px;
+border-radius: 15px;
+}
+
+.car{
+color: white;
+padding: 45px;
+
+}
+.car1{
+background-color:hsl(31, 77%, 52%) ;
+font-family:Lexend Deca ;
+height: 400px;
+}
+
+.car2{
+background-color:hsl(184, 100%, 22%) ;
+font-family:Lexend Deca ;
+height: 400px;
+}
+
+.car3{
+background-color:hsl(179, 100%, 13%) ;
+font-family:Lexend Deca ;
+height: 400px;
+}
+
+
+
+
+.secondconteiner{
+
+width: 200px;
+height: 60px;
+border: 1px solid whitesmoke;
+position: relative;
+top: 40px;
+border-radius: 15px;
+}
+
+.secondconteiner:hover{
+transition: 0.5s;
+transform: rotate(360deg) scale(1.1); 
+cursor: pointer;
+}
+
+.a{
+position: relative;
+left: 45px;
+top: 3px;
+}
+
+.thirdconteiner{
+width: 200px;
+height: 60px;
+border: 1px solid whitesmoke;
+position: relative;
+top: 40px;
+border-radius: 15px;
+}
+.s{
+position: relative;
+left: 45px;
+top: 3px;
+}
+.thirdconteiner:hover{
+transition: 0.5s;
+transform: rotate(360deg) scale(1.1);
+cursor: pointer;
+}
+.forthconteiner{
+width: 200px;
+height: 60px;
+border: 1px solid whitesmoke;
+position: relative;
+top: 40px;
+border-radius: 15px;
+}
+
+.d{
+position: relative;
+left: 45px;
+top: 3px;
+}
+.forthconteiner:hover{
+transition: 0.5s;
+transform: rotate(360deg) scale(1.1);
+cursor: pointer;
+}

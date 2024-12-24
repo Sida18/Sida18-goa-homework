@@ -1,0 +1,112 @@
+
+body{
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.conteiner{
+    width: 900px;
+    height:90px ;
+    border: 4px solid black;
+    position: relative;
+    left: 250px;
+    border-radius: 50px;
+    
+}
+
+.color{
+    
+    position: relative;
+    left: 200px;
+    top: 10px;
+    color: rgb(17, 125, 220);
+    animation: flipper 8s;
+    
+}
+
+
+@keyframes flipper {
+    0%{
+        opacity: 0;
+    }
+
+    50%{
+        opacity: 1;
+    }
+
+    100%{
+        opacity: 1;
+    }
+}
+
+.hax{
+    position: relative;
+    left: 600px;
+    bottom: 34px;
+    color: black;
+}
+
+.Background{
+    text-align: center;
+    position: relative;
+    right: 45px;
+    top: 150px;
+    left:450px;
+    color: white;
+   
+
+}
+
+.blackColor{
+    background-color: black;
+    width: 500px;
+    height: 60px;
+    position: relative;
+    border-radius: 10px;
+}
+
+.ground{
+    position: relative;
+    top: 10px;
+}
+
+
+#HaxText{
+    position: relative;
+    top: 12px;
+    
+}
+
+#me{
+  width: 300px;
+  height: 60px;
+  border-radius: 50px;
+  position: relative;
+  top: 200px;
+  left: 550px;
+   z-index: 1;
+   border: solid;
+   
+}
+
+
+#me::before{
+    content: '';
+    position: absolute;
+    inset: 0;
+    background-color: black;
+    border-radius: 50px;
+    transform-origin:center;
+    transform: scale(0);
+   z-index: -1;
+   transition: transform 700ms;
+}
+
+#me:hover::before{
+    transform: scale(1);
+}
+
+#me:hover{
+    color: whitesmoke;
+}

@@ -1,0 +1,18 @@
+#next{
+    width: 200px;
+    height: 60px;
+    border-radius: 50px;
+    background-color: orangered;
+    font-size: 25px;
+    color: white;
+}
+
+#prev{
+    
+    width: 200px;
+    height: 60px;
+    border-radius: 50px;
+    background-color: blueviolet;
+    font-size: 25px;
+    color: white;
+}

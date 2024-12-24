@@ -1,0 +1,115 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+  
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+  
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+
+.p1 {
+
+text-align: center;
+text-decoration: underline;
+
+
+}
+
+
+img {
+
+
+border-radius: 100px;
+
+}
+
+
+
+
+
+
+
+
+.i {
+
+text-align: center;
+font-size: 40px;
+color: blue;
+border-radius: 15px;
+position: relative;
+left: 250px;
+background-color: aquamarine;
+}
+
+
+.div1 {
+
+font-size: 40px;
+text-transform: capitalize;
+font-family: Roboto;
+color: beige;
+
+}
+
+
+ol {
+
+
+font-size: 40px;
+list-style-type: georgian;
+
+
+}
+
+
+
+.div2 {
+
+font-size: 40px;
+font-family: Roboto;
+color: bisque;
+}
+
+
+.div3 {
+
+font-size: 40px;
+font-family: Roboto;
+color: azure;
+}
+
+
+
+.p2 {
+font-size: 40px;
+text-align: center;
+text-decoration: underline;
+
+}
+
+.v {
+position: relative;
+left: 615px;
+border: 12px solid red;
+width: 245px;
+height: 270px;
+border-radius: 22px;
+color: azure;
+}
+.p3{
+
+font-size: 40px;
+text-decoration: underline;
+text-align: center;
+
+}
+
+body {
+
+
+background-image: url(bruh.jpg);
+
+
+
+}
