@@ -1,0 +1,122 @@
+.login{
+  width: 400px ;
+  height: 500px;
+  background-color: white;
+  position: relative;
+  left: 530px;
+  border-radius: 15px;
+  background-color: rgba(128, 128, 128, 0);
+  border-top: 2px solid blueviolet;
+  border-bottom: 2px solid blueviolet;
+}
+
+#date{
+  position: relative;
+  left: 15px;
+  width: 70px;
+  height: 50px;
+  border-radius: 5px;
+  background-color: rgba(128, 128, 128, 0);
+  border:  2px solid blueviolet ;
+ 
+}
+
+#date::placeholder{
+  color: white;
+  position: relative;
+  left: 18px;
+}
+
+.day{
+  position: relative;
+  left: 15px;
+  width: 70px;
+  height: 50px;
+  border-radius: 5px;
+  background-color: rgba(128, 128, 128, 0);
+  border:  2px solid blueviolet ;
+}
+
+.day::placeholder{
+  color: white;
+  position: relative;
+  left: 19px;
+}
+.month{
+  position: relative;
+  left: 15px;
+  width: 70px;
+  height: 50px;
+  border-radius: 5px;
+  background-color: rgba(128, 128, 128, 0);
+  border:  2px solid blueviolet ;
+}
+
+.month::placeholder{
+ color: white;
+ position: relative;
+ left: 14px;
+}
+
+.date-day-month{
+  display: flex;
+  gap: 21.5px;
+  position: relative;
+  left: 38px;
+  top: 40px;
+}
+
+.enter{
+  color: white;
+  position: relative;
+  top: 100px;
+  left: 90px;
+}
+
+.email{
+  width: 300px;
+  height: 40px;
+  border-radius: 150px;
+  position: relative;
+  top: 100px;
+  left: 40px;
+  background-color: rgba(128, 128, 128, 0);
+  border-bottom:  2px solid blueviolet ;
+  border-top:  2px solid blueviolet ;
+}
+
+.email::placeholder{
+  color: white;
+  position: relative;
+  left: 10px;
+}
+.enter1{
+  color: white;
+  position: relative;
+  top: 120px;
+  left: 80px;
+}
+
+.password{
+  width: 300px;
+  height: 40px;
+  border-radius: 150px;
+  position: relative;
+  top: 125px;
+  left: 40px;
+  background-color: rgba(128, 128, 128, 0);
+  border-bottom:  2px solid blueviolet ;
+  border-top:  2px solid blueviolet ;
+
+}
+.password::placeholder{
+  color: white;
+  position: relative;
+  left: 10px;
+}
+
+.Login{
+  position: relative;
+  top: 215px;
+  left: -150px;
+}
