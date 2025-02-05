@@ -1,0 +1,4 @@
+name="dato"
+
+
+print(name)
