@@ -1,0 +1,56 @@
+.knockout-stages{
+  width: 500px;
+  height: 530px;
+  background-color: whitesmoke;
+  border-radius: 15px;
+  position: relative;
+  left: 500px;
+}
+
+.first-leg{
+  color: black;
+  font-size: 22px;
+  position: relative;
+  left: 10px;
+ top: 10px;
+}
+
+.REAL{
+  position: relative;
+  left: 40px;
+}
+
+.dortmund{
+  position: relative;
+  left: 80px;
+}
+
+.club{
+  position: relative;
+  left: 80px;
+}
+
+.bayern{
+  position: relative;
+  left: 120px;
+}
+
+.feynoord{
+  position: relative;
+  left: 110px;
+}
+
+.PSG{
+  position: relative;
+  left: 140px;
+}
+
+.benfica{
+  position: relative;
+  left: 110px;
+}
+
+.juventus{
+  position: relative;
+  left: 120px;
+}

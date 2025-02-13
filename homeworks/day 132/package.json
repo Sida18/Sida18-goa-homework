@@ -1,5 +1,5 @@
 {
-  "name": "day-132",
+  "name": "day-130",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,11 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@tailwindcss/vite": "^4.0.3",
-    "gsap": "^3.12.7",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "tailwindcss": "^4.0.3"
+    "react-dom": "^18.3.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.17.0",
