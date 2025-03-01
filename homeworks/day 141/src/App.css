@@ -1,0 +1,89 @@
+.napoleon{
+  width: 1530px;
+  height: 500px;
+  background-color: blue;
+  position: relative;
+  bottom: 130px;
+border-bottom-right-radius: 150px;
+}
+
+
+.about{
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 55vh;
+}
+
+.learn{
+  display: flex;
+  justify-content: center;
+   color: rgb(165, 43, 43);
+   position: relative;
+   right: 4px;
+   bottom: 150px;
+}
+
+.who{
+ position: relative;
+ left: 50px;
+ top: 50px;
+}
+
+.text {
+  color: rgb(176, 170, 170);
+  position: relative;
+  left: 50px;
+  top: 20px ;
+}
+
+
+.what{
+  position: relative;
+  left: 50px;
+}
+
+.div2{
+  position: relative;
+  left: 730px;
+
+  bottom: 240px;
+}
+
+.text1{
+  color: rgb(176, 170, 170);
+  position: relative;
+  left: 50px;
+}
+.how{
+  position: relative;
+  left: 50px;
+  bottom: 100px;
+}
+
+.text2{
+  color: rgb(176, 170, 170);
+  position: relative;
+  left: 190px;
+  top: -100px;
+}
+
+.div3{
+  position: relative;
+  left: 280px;
+  
+}
+
+.add{
+position: relative;
+left: 600px;
+bottom: 40px;
+width: 230px;
+height: 60px;
+transition: 2.5s;
+}
+.add:hover{
+  background-color: white;
+  color: black;
+}
